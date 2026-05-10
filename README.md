@@ -1,4 +1,7 @@
-﻿# Project Rogue
+﻿# Project Rogue dans unity
+
+## Info complémentaire
+Version personnel du projet de session. Un jeu douteux fait avec unity. Fait avec une équipe de 4 personnes
 
 ## Description
 Notre premier jeu rogue. Tu es genre un mineur (avec des amis si tu veux) 
